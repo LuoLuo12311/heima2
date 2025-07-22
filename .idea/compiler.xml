@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day02-collection-map-stream" />
+        <module name="day03" />
+        <module name="day06-advanced" />
+        <module name="day01" />
+        <module name="chatAPP" />
+        <module name="day05net" />
+        <module name="graduation_project" />
+        <module name="day04-thread" />
+        <module name="chat-sever" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
